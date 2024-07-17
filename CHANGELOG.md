@@ -1,5 +1,17 @@
 # @hyperlane-xyz/registry
 
+## 2.4.0
+
+### Minor Changes
+
+- 10394fd: Add Endurance chain
+- 721c99d: add bridge pulsechain testnet
+- 0a59848: add Mint Sepolia Testnet
+
+### Patch Changes
+
+- 6ae344e: Add "updated" Renzo warp route including Fraxtal
+
 ## 2.3.0
 
 ### Minor Changes
